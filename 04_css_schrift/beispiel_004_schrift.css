@@ -1,0 +1,12 @@
+p { /*CSS-Selektor*/
+    color: cadetblue;/*CSS-Eigenschaft = CSS-Wert*/
+    font-size: 12px;/**Schriftgröße*/
+    font-family: Arial;
+    font-weight: normal;/**Schriftgewicht*/    
+} 
+h1 {/*CSS-Selektor*/
+    color: brown;
+    background-color: coral;
+    font-family: 'Times New Roman';
+    font-style: normal;
+}

@@ -1,0 +1,8 @@
+p{
+    color: cadetblue;
+}
+h1{
+    color: brown;
+    background-color: coral;    
+    opacity: 0.5;/*Transparenz*/
+}
